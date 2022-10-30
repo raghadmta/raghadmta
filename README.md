@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there 👋 I am Raghad. DevOps Engineer and a Web Developer. I have a bachelor's degree in Computer Science and recently I took a DevOps Bootcamp from coding dojo that introduced me to all the tools I needed. 
 
-am trying to grow as DevOps Engineer so if you have any challanges or new things to try conttact me </br> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://www.discord.com/users/973853316540940308) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raghad-al-mutlaq/) 
+am trying to grow as DevOps Engineer so if you have any challanges or new things to try conttact me </br> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discord.com/users/973853316540940308) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghad-al-mutlaq/) 
 
 # 💻 Tech Stack:
 #### DevOps:
