@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there 👋 I am Raghad. cloud Engineer and a Web Developer.
-Am trying to grow as cloud Engineer so if you have any challanges or new things to try  sends it to me:  </br> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discord.com/users/973853316540940308) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghad-al-mutlaq/) 
+Am trying to grow as a cloud Engineer so if you have any challanges or new things to try  sends it to me:  </br> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discord.com/users/973853316540940308) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghad-al-mutlaq/) 
 
 # 💻 Tech Stack:
 #### DevOps:
