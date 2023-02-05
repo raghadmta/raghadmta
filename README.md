@@ -1,13 +1,12 @@
 # 💫 About Me:
-Hi there 👋 I am Raghad. DevOps Engineer and a Web Developer. I have a bachelor's degree in Computer Science and recently I took a DevOps Bootcamp from coding dojo that introduced me to all the tools I needed. 
-
-am trying to grow as DevOps Engineer so if you have any challanges or new things to try conttact me </br> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discord.com/users/973853316540940308) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghad-al-mutlaq/) 
+Hi there 👋 I am Raghad. DevOps Engineer and a Web Developer.
+Am trying to grow as cloud Engineer so if you have any challanges or new things to try  sends it to me:  </br> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discord.com/users/973853316540940308) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghad-al-mutlaq/) 
 
 # 💻 Tech Stack:
 #### DevOps:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-[<img alt="alt_text" width="40px" src="Imgs/aws-certified-cloud-practitioner.png" />](https://www.credly.com/badges/42dfe911-0b2b-4755-ba4c-04bf8bd0a9aa/public_url)
+[<img alt="alt_text" width="60px" src="Imgs/aws-certified-cloud-practitioner.png" />](https://www.credly.com/badges/42dfe911-0b2b-4755-ba4c-04bf8bd0a9aa/public_url)
 
 
 
