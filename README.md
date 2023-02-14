@@ -1,4 +1,8 @@
 # 💫 About Me:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> <p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/raghadmta/count.svg" /> </p>
+
+
 Hi there 👋 I am Raghad. cloud Engineer and a Web Developer.
 Am trying to grow as a cloud Engineer so if you have any challanges or new things to try  sends it to me:  </br> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discord.com/users/973853316540940308) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghad-al-mutlaq/) 
 
@@ -20,7 +24,7 @@ Am trying to grow as a cloud Engineer so if you have any challanges or new thing
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raghadmta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=raghadmta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raghadmta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadmta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
