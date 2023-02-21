@@ -2,9 +2,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quantico&size=21&duration=4996&pause=1000&color=1CFF11E4&center=true&vCenter=true&multiline=true&width=455&height=110&lines=Hey+there+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Raghad.;Cloud+Enginner+and+a+Web+Developer+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB"/></a>
 </p>
+
 <p align="center"> <img src="https://profile-counter.glitch.me/raghadmta/count.svg" /> </p>
-	
-	
+
+<p align="center" > 
+<a href="https://wakatime.com/@5635654b-f72b-479e-8fd1-9ce931c0f359"  ><img src="https://wakatime.com/badge/user/5635654b-f72b-479e-8fd1-9ce931c0f359.svg"  alt="Total time coded since Feb 14 2023"  /></a> </p>
+
 # 💻 Tech Stack:
 			   
 #### Web:
@@ -23,6 +26,7 @@
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=raghadmta&theme=dark&border_radius=17)](https://git.io/streak-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raghadmta)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+ 
