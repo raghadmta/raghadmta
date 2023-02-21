@@ -24,12 +24,7 @@ Am trying to grow as a cloud Engineer so if you have any challanges or new thing
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raghadmta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raghadmta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadmta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=raghadmta&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raghadmta&theme=dark&border_radius=17)](https://git.io/streak-stats)
 
 
 
