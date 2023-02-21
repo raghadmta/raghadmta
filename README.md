@@ -23,10 +23,6 @@
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=raghadmta&theme=dark&border_radius=17)](https://git.io/streak-stats)
-
-
-
-
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/@5635654b-f72b-479e-8fd1-9ce931c0f359/github-readme-stats)
 
 
