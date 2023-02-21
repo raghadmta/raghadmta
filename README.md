@@ -1,13 +1,11 @@
-# 💫 About Me:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> <p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/raghadmta/count.svg" /> </p>
-
-
-Hi there 👋 I am Raghad. cloud Engineer and a Web Developer.
-Am trying to grow as a cloud Engineer so if you have any challanges or new things to try  sends it to me:  </br> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discord.com/users/973853316540940308) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghad-al-mutlaq/) 
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quantico&size=21&duration=4996&pause=1000&color=1CFF11E4&center=true&vCenter=true&multiline=true&width=455&height=110&lines=Hey+there+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Raghad.;Cloud+Enginner+and+a+Web+Developer+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB"/></a>
+</p>
+<p align="center"> <img src="https://profile-counter.glitch.me/raghadmta/count.svg" /> </p>
+	
+	
 # 💻 Tech Stack:
-
 			   
 #### Web:
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
