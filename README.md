@@ -22,7 +22,7 @@
 
 #### DB:
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-
-# 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=raghadmta&theme=dark&border_radius=17)](https://git.io/streak-stats)
+---
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+ <img style="max-width: 100%;" src="https://streak-stats.demolab.com?user=raghadmta&theme=merko&hide_border=true&border_radius=6.3&date_format=j%20M%5B%20Y%5D" />
+</div>
