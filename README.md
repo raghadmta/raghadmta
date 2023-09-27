@@ -5,9 +5,6 @@
 
 <p align="center"> <img src="https://profile-counter.glitch.me/raghadmta/count.svg" /> </p>
 
-<p align="center" > 
-<a href="https://wakatime.com/@5635654b-f72b-479e-8fd1-9ce931c0f359"  ><img src="https://wakatime.com/badge/user/5635654b-f72b-479e-8fd1-9ce931c0f359.svg"  alt="Total time coded since Feb 14 2023"  /></a> </p>
-
 
 
 
